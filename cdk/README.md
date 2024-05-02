@@ -16,6 +16,9 @@ cdk --version
 
 ## Work with python
 https://docs.aws.amazon.com/cdk/v2/guide/work-with-cdk-python.html
+
+python 3.8 or greater is required.
+    
 ```sh
 cdk init app --language python
 ```
