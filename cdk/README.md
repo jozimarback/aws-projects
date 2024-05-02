@@ -13,3 +13,16 @@ npm install -g aws-cdk
 ```sh
 cdk --version
 ```
+
+## Work with python
+https://docs.aws.amazon.com/cdk/v2/guide/work-with-cdk-python.html
+```sh
+cdk init app --language python
+```
+
+```sh	
+source .venv/bin/activate
+```
+
+## Testing
+https://docs.aws.amazon.com/cdk/v2/guide/testing.html
